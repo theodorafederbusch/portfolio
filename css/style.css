@@ -17,7 +17,10 @@
     background: #fff url('../img/preloader.gif') no-repeat center center;
 }
 
-
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
 
 
 
